@@ -146,7 +146,7 @@ Figure 1: Admin interface retrieved by changing stockApi to http://localhost/adm
 Figure 2: Successful deletion of user 'carlos' via internal endpoint.
 
 
-![Lab Solved Congratulations]()
+![Lab Solved Congratulations](https://github.com/venu-maxx/PortSwigger-SSRF-Lab-1/blob/894b6b2724293d408358a6b011f10d48ef168722/PortSwigger%20SSRF%20Lab%201%20Lab%20Completed.png)
 
 Figure 3: PortSwigger Academy confirmation – "Congratulations, you solved the lab!"
 
