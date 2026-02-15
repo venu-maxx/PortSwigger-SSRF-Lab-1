@@ -141,7 +141,7 @@ Proof of Exploitation:
 Figure 1: Admin interface retrieved by changing stockApi to http://localhost/admin.
 
 
-![Proof of Successful SSRF Exploitation]()
+![Proof of Successful SSRF Exploitation](https://github.com/venu-maxx/PortSwigger-SSRF-Lab-1/blob/8a51c93e8eff91b322beead323c3dd4594606f92/PortSwigger%20SSRF%20Lab%201%20success.png)
 
 Figure 2: Successful deletion of user 'carlos' via internal endpoint.
 
