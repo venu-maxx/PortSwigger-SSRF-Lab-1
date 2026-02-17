@@ -136,7 +136,7 @@ Proof of Exploitation:
 
 
 
-![Proof of SSRF Error]()
+![Proof of SSRF Error](https://github.com/venu-maxx/PortSwigger-SSRF-Lab-1/blob/bdcd8ec19f1d2509f3cb236f1e25ed6b8c6b9c71/PortSwigger-SSRF-Lab-1%20Error.png)
 
 Figure 1: Admin interface retrieved by changing stockApi to http://localhost/admin.
 
